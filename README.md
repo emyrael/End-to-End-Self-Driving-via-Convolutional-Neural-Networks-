@@ -1,0 +1,2 @@
+# End-to-End-Self-Driving-via-Convolutional-Neural-Networks-
+In this project I trained a convolutional neural network (CNN) to map raw pixels from a single front-facing camera directly to steering commands. This end-to-end approach proved surprisingly powerful. With minimum training data from humans the system learns to drive in traffic on local roads with or without lane markings and on highways. It also operates in areas with unclear visual guidance such as in parking lots and on unpaved roads. 
